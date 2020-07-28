@@ -1,4 +1,4 @@
-package com.abcd.action;
+package abc.a.b;
 
 public interface Action {
 
